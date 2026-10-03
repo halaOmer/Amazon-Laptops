@@ -1,2 +1,19 @@
 # Amazon-Laptops
-Amazon Laptops is store in amazon.com website, I conduct analysis on data of that store, the result of analysis is reports help the owner of store to take right decisions
+# Objective:
+Analyze laptop sales data to identify sales trends popular brands, pricing categories and factors affecting sales.
+# Tools :
+Excel 
+Power Query
+Power BI
+DAX
+# Data Cleaning:
+Remove duplicates
+Handle missing values
+Standardized brand names
+Created price categories
+# Analysis:
+Average price by Brand 
+Sales by brand 
+Sales by price category 
+Monthly Sales trends
+
